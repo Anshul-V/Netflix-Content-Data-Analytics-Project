@@ -106,7 +106,7 @@ flowchart TD
 
 ---
 
-# 🧹 **PHASE 3 — Data Cleaning & Transformation (Python)**
+# 🧹 **Data Cleaning & Transformation (Python)**
 
 ### ✔ Key Operations in `clean.py`
 
@@ -125,14 +125,16 @@ flowchart TD
 
 ---
 
-# 📊 **PHASE 4 — Tableau Dashboard**
+# 📊 **Tableau Dashboard**
 
 ## 🌐 **Dashboard Preview**
 
 <table>
   <tr>
     <td><img src="dashboard/images/Dashboard_1.png" width="520"></td>
+      View it in Tableau Public [Here](https://public.tableau.com/app/profile/anshul.vemisetty/viz/Netflix_Data_Analytics_Project1_1/Netflix_Analytics_Dashboard).
     <td><img src="dashboard/images/Dashboard_2.png" width="520"></td>
+      View it in Tableau Public [Here](https://public.tableau.com/app/profile/anshul.vemisetty/viz/Netflix_Data_Analytics_Project1/Netflix_Analytics_Dashboard).
   </tr>
 </table>
 
