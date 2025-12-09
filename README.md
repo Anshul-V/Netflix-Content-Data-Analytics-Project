@@ -75,7 +75,7 @@ This project takes the **Kaggle Netflix Titles Dataset**, cleans it using a cust
 
 ---
 
-# 🔄 **End-to-End Data Flow (Mermaid Diagram with Colors)**
+# 🔄 **End-to-End Data Flow**
 
 ```mermaid
 flowchart TD
@@ -126,15 +126,13 @@ flowchart TD
 ---
 
 # 📊 **Tableau Dashboard**
-
+Check out my Tableau Public profile [here](https://public.tableau.com/app/profile/anshul.vemisetty/vizzes).
 ## 🌐 **Dashboard Preview**
 
 <table>
   <tr>
     <td><img src="dashboard/images/Dashboard_1.png" width="520"></td>
-      View it in Tableau Public [Here](https://public.tableau.com/app/profile/anshul.vemisetty/viz/Netflix_Data_Analytics_Project1_1/Netflix_Analytics_Dashboard).
     <td><img src="dashboard/images/Dashboard_2.png" width="520"></td>
-      View it in Tableau Public [Here](https://public.tableau.com/app/profile/anshul.vemisetty/viz/Netflix_Data_Analytics_Project1/Netflix_Analytics_Dashboard).
   </tr>
 </table>
 
