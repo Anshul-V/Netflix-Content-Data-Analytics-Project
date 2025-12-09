@@ -1,0 +1,32 @@
+{
+  "raw_rows": 8807,
+  "unique_show_id": 8807,
+  "type_counts": {
+    "Movie": 6131,
+    "TV Show": 2676
+  },
+  "null_counts": {
+    "show_id": 0,
+    "type": 0,
+    "title": 0,
+    "director": 2634,
+    "cast": 825,
+    "country": 831,
+    "date_added": 10,
+    "release_year": 0,
+    "rating": 4,
+    "duration": 3,
+    "listed_in": 0,
+    "description": 0,
+    "added_year": 10,
+    "added_month": 10,
+    "added_quarter": 0,
+    "duration_num": 3,
+    "duration_type": 3,
+    "primary_country": 831,
+    "title_slug": 0,
+    "genres": 0
+  },
+  "added_year_min": 2008,
+  "added_year_max": 2021
+}
