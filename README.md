@@ -247,17 +247,7 @@ python src/data_prep/clean.py --input data/raw/netflix_titles.csv --out_dir data
 | Data Cleaning   | Python, Pandas                   |
 | Data Validation | Custom parsing tests             |
 | Visualization   | Tableau Desktop / Tableau Public |
-| Documentation   | Markdown, Mermaid                |
-
----
-
-# 📌 **Next Steps (Optional Enhancements)**
-
-* Automated Tableau PNG export
-* Add Jupyter notebook with EDA
-* Build Streamlit dashboard version
-* Host processed datasets publicly
-* Add API for real-time filtering
+| Documentation   | Microsoft Word                   |
 
 ---
 
